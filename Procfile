@@ -1,1 +1,0 @@
-web: python days.py
